@@ -760,6 +760,5 @@ InsertPlayerIntoNewDrug = function(type, min, coordsdrug, currentminute)
     end
 end
 
-
-
+print("script made by 4Slang/SL scripts")
 
